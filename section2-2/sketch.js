@@ -10,7 +10,7 @@ function setup() {
   for(let i = 0; i < 9; i++){
     // 変えるのはここから
     if(i % 2 == 0){
-      strokeWeight(2);
+      strokeWeight(1);
     }
     else{
       strokeWeight(1);
